@@ -9,3 +9,5 @@ Exercises for [chapter 4](https://faculty.washington.edu/otoomet/info201-book/gi
 ### What I ate for Breakfast
 1. Coffee
 2. Adderall
+
+![](exercise-2/images/calendar.png)

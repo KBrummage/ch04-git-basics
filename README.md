@@ -11,3 +11,4 @@ Exercises for [chapter 4](https://faculty.washington.edu/otoomet/info201-book/gi
 2. Adderall
 
 ![](exercise-2/images/calendar.png)
+This is my calendar in gmail, into which I import my UW calendar.  Because the administrators are too lazy to assign students to **only** their assigned sections, my calendar has now become useless, as you can see.
